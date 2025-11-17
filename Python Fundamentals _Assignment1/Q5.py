@@ -1,0 +1,8 @@
+x = 10 + 3 * 2 ** 2
+
+'''
+Operator Precedence - ** > * > +
+Therefore, 10 + 3 * 2 ** 2 = 10 + 3 * 4 = 10 + 12 = 22
+'''
+
+print(x) # 22
