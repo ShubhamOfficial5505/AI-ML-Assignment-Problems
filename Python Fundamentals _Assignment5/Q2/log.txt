@@ -1,0 +1,3 @@
+CPU usage above 80%
+Backup completed
+Program run successfully
