@@ -1,0 +1,9 @@
+# Jupyter files
+.ipynb_checkpoints/
+
+# Extra folders
+.virtual_documents/
+
+# System files
+.DS_Store
+Thumbs.db
